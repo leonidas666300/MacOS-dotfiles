@@ -1,2 +1,2 @@
-- name: markdownlint-cli2-action
-  uses: DavidAnson/markdownlint-cli2-action@main
+name: markdownlint-cli2-action
+uses: DavidAnson/markdownlint-cli2-action@main
